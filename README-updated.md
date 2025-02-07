@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./images/desktop-preview.jpg)
+![Desktop View](./images/Screenshot.png)
 
 ### Links
 
@@ -59,9 +59,9 @@ Here are some code snippets I'm proud of:
 ```html
 <!-- Clean, semantic HTML structure -->
 <main class="advice-container">
-  <h1 class="advice-number">ADVICE #<span id="advice-id">117</span></h1>
+  <h1 class="advice-number">ADVICE #<span id="advice-id"></span></h1>
   <p class="advice-text">
-    "<span id="advice-content">It is easy to sit up and take notice, what's difficult is getting up and taking action.</span>"
+    "<span id="advice-content"></span>"
   </p>
 </main>
 ```
@@ -97,6 +97,5 @@ async function getAdvice() {
 
 ## Author
 
-- Website - [Your Name](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://twitter.com/yourusername)
+- Github - [@ruefie](https://github.com/ruefie/Advice-Generator)
+- Frontend Mentor - [@ruefie](https://www.frontendmentor.io/profile/ruefie)
